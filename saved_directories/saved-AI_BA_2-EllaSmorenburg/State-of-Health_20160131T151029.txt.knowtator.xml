@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="State-of-Health_20160131T151029.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2598" />
+        <annotator id="eHOST_2010">Ella</annotator>
+        <span start="351" end="356" />
+        <spannedText>nâ€™t</spannedText>
+        <creationDate>Wed Jan 12 12:41:40 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2598">
+        <mentionClass id="NegCue">nâ€™t</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2599" />
+        <annotator id="eHOST_2010">Ella</annotator>
+        <span start="1291" end="1294" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 12 12:42:32 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2599">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2600" />
+        <annotator id="eHOST_2010">Ella</annotator>
+        <span start="1889" end="1894" />
+        <spannedText>nâ€™t</spannedText>
+        <creationDate>Wed Jan 12 12:43:17 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2600">
+        <mentionClass id="NegCue">nâ€™t</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2601" />
+        <annotator id="eHOST_2010">Ella</annotator>
+        <span start="2620" end="2625" />
+        <spannedText>nâ€™t</spannedText>
+        <creationDate>Wed Jan 12 12:44:04 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2601">
+        <mentionClass id="NegCue">nâ€™t</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2602" />
+        <annotator id="eHOST_2010">Ella</annotator>
+        <span start="2849" end="2854" />
+        <spannedText>nâ€™t</spannedText>
+        <creationDate>Wed Jan 12 12:44:21 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2602">
+        <mentionClass id="NegCue">nâ€™t</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2603" />
+        <annotator id="eHOST_2010">Ella</annotator>
+        <span start="3069" end="3073" />
+        <spannedText>less</spannedText>
+        <creationDate>Wed Jan 12 12:44:46 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2603">
+        <mentionClass id="NegCue">less</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2604" />
+        <annotator id="eHOST_2010">Ella</annotator>
+        <span start="3363" end="3366" />
+        <spannedText>not</spannedText>
+        <creationDate>Wed Jan 12 12:45:08 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2604">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2605" />
+        <annotator id="eHOST_2010">Ella</annotator>
+        <span start="3642" end="3644" />
+        <spannedText>un</spannedText>
+        <creationDate>Wed Jan 12 12:45:28 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2605">
+        <mentionClass id="NegCue">un</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
