@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations textSource="rivm-nl_20161018T070933.txt">
     <annotation>
-        <mention id="EHOST_Instance_2554" />
+        <mention id="EHOST_Instance_489" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="667" end="670" />
         <spannedText>not</spannedText>
         <creationDate>Wed Jan 12 11:56:13 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2554">
+    <classMention id="EHOST_Instance_489">
         <mentionClass id="NegCue">not</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2555" />
+        <mention id="EHOST_Instance_490" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="885" end="888" />
         <spannedText>not</spannedText>
         <creationDate>Wed Jan 12 11:56:24 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2555">
+    <classMention id="EHOST_Instance_490">
         <mentionClass id="NegCue">not</mentionClass>
     </classMention>
     <eHOST_Adjudication_Status version="1.0">

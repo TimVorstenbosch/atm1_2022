@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations textSource="Reuters_20161107T200904.txt">
     <annotation>
-        <mention id="EHOST_Instance_2546" />
+        <mention id="EHOST_Instance_481" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="137" end="140" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 11:47:26 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2546">
+    <classMention id="EHOST_Instance_481">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2547" />
+        <mention id="EHOST_Instance_482" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="240" end="243" />
         <spannedText>non</spannedText>
         <creationDate>Wed Jan 12 11:47:44 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2547">
+    <classMention id="EHOST_Instance_482">
         <mentionClass id="NegCue">non</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2548" />
+        <mention id="EHOST_Instance_483" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="1699" end="1702" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 11:51:42 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2548">
+    <classMention id="EHOST_Instance_483">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2549" />
+        <mention id="EHOST_Instance_484" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2146" end="2148" />
         <spannedText>no</spannedText>
         <creationDate>Wed Jan 12 11:52:43 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2549">
+    <classMention id="EHOST_Instance_484">
         <mentionClass id="NegCue">no</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2550" />
+        <mention id="EHOST_Instance_485" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2670" end="2677" />
         <spannedText>nothing</spannedText>
         <creationDate>Wed Jan 12 11:53:34 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2550">
+    <classMention id="EHOST_Instance_485">
         <mentionClass id="NegCue">nothing</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2551" />
+        <mention id="EHOST_Instance_486" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2771" end="2774" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 11:53:40 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2551">
+    <classMention id="EHOST_Instance_486">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2552" />
+        <mention id="EHOST_Instance_487" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2997" end="3000" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 11:54:06 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2552">
+    <classMention id="EHOST_Instance_487">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2553" />
+        <mention id="EHOST_Instance_488" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="3228" end="3231" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 11:54:21 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2553">
+    <classMention id="EHOST_Instance_488">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <eHOST_Adjudication_Status version="1.0">

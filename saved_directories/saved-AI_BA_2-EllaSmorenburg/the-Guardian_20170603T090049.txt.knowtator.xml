@@ -1,174 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations textSource="the-Guardian_20170603T090049.txt">
     <annotation>
-        <mention id="EHOST_Instance_2645" />
+        <mention id="EHOST_Instance_580" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="689" end="692" />
         <spannedText>not</spannedText>
         <creationDate>Wed Jan 12 13:08:05 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2645">
+    <classMention id="EHOST_Instance_580">
         <mentionClass id="NegCue">not</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2646" />
+        <mention id="EHOST_Instance_581" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="1004" end="1007" />
         <spannedText>not</spannedText>
         <creationDate>Wed Jan 12 13:08:22 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2646">
+    <classMention id="EHOST_Instance_581">
         <mentionClass id="NegCue">not</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2647" />
+        <mention id="EHOST_Instance_582" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="1168" end="1171" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 13:08:44 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2647">
+    <classMention id="EHOST_Instance_582">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2648" />
+        <mention id="EHOST_Instance_583" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="1520" end="1523" />
         <spannedText>not</spannedText>
         <creationDate>Wed Jan 12 13:08:59 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2648">
+    <classMention id="EHOST_Instance_583">
         <mentionClass id="NegCue">not</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2649" />
+        <mention id="EHOST_Instance_584" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="1975" end="1977" />
         <spannedText>un</spannedText>
         <creationDate>Wed Jan 12 13:09:31 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2649">
+    <classMention id="EHOST_Instance_584">
         <mentionClass id="NegCue">un</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2650" />
+        <mention id="EHOST_Instance_585" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2061" end="2065" />
         <spannedText>less</spannedText>
         <creationDate>Wed Jan 12 13:09:45 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2650">
+    <classMention id="EHOST_Instance_585">
         <mentionClass id="NegCue">less</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2651" />
+        <mention id="EHOST_Instance_586" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2594" end="2597" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 13:10:32 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2651">
+    <classMention id="EHOST_Instance_586">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2652" />
+        <mention id="EHOST_Instance_587" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2723" end="2726" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 13:11:21 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2652">
+    <classMention id="EHOST_Instance_587">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2653" />
+        <mention id="EHOST_Instance_588" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2757" end="2760" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 13:11:26 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2653">
+    <classMention id="EHOST_Instance_588">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2654" />
+        <mention id="EHOST_Instance_589" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="2979" end="2981" />
         <spannedText>no</spannedText>
         <creationDate>Wed Jan 12 13:11:40 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2654">
+    <classMention id="EHOST_Instance_589">
         <mentionClass id="NegCue">no</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2655" />
+        <mention id="EHOST_Instance_590" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="3138" end="3140" />
         <spannedText>un</spannedText>
         <creationDate>Wed Jan 12 13:11:51 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2655">
+    <classMention id="EHOST_Instance_590">
         <mentionClass id="NegCue">un</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2656" />
+        <mention id="EHOST_Instance_591" />
         <annotator id="eHOST_2010">Ella</annotator>
-        <span start="3394" end="3397" />
-        <spannedText>n't</spannedText>
-        <creationDate>Wed Jan 12 13:12:14 CET 2022</creationDate>
+        <span start="3395" end="3397" />
+        <spannedText>'t</spannedText>
+        <creationDate>Thu Jan 13 14:07:28 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2656">
-        <mentionClass id="NegCue">n't</mentionClass>
+    <classMention id="EHOST_Instance_591">
+        <mentionClass id="NegCue">'t</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2657" />
+        <mention id="EHOST_Instance_592" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="3439" end="3442" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 13:12:20 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2657">
+    <classMention id="EHOST_Instance_592">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2658" />
+        <mention id="EHOST_Instance_593" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="3519" end="3522" />
         <spannedText>not</spannedText>
         <creationDate>Wed Jan 12 13:12:24 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2658">
+    <classMention id="EHOST_Instance_593">
         <mentionClass id="NegCue">not</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2659" />
+        <mention id="EHOST_Instance_594" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="3697" end="3700" />
         <spannedText>n't</spannedText>
         <creationDate>Wed Jan 12 13:12:35 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2659">
+    <classMention id="EHOST_Instance_594">
         <mentionClass id="NegCue">n't</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2660" />
+        <mention id="EHOST_Instance_595" />
         <annotator id="eHOST_2010">Ella</annotator>
         <span start="3885" end="3887" />
         <spannedText>no</spannedText>
         <creationDate>Wed Jan 12 13:12:46 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2660">
+    <classMention id="EHOST_Instance_595">
         <mentionClass id="NegCue">no</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_2661" />
+        <mention id="EHOST_Instance_596" />
         <annotator id="eHOST_2010">Ella</annotator>
-        <span start="4138" end="4141" />
-        <spannedText>n't</spannedText>
-        <creationDate>Wed Jan 12 13:13:06 CET 2022</creationDate>
+        <span start="4139" end="4141" />
+        <spannedText>'t</spannedText>
+        <creationDate>Thu Jan 13 14:07:34 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_2661">
-        <mentionClass id="NegCue">n't</mentionClass>
+    <classMention id="EHOST_Instance_596">
+        <mentionClass id="NegCue">'t</mentionClass>
     </classMention>
     <eHOST_Adjudication_Status version="1.0">
         <Adjudication_Selected_Annotators version="1.0" />
