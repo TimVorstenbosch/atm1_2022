@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <annotations textSource="rivm-nl_20161018T070933.txt">
     <annotation>
-        <mention id="EHOST_Instance_858" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <mention id="EHOST_Instance_1435" />
+        <annotator id="01">TimVorstenbosch1</annotator>
         <span start="667" end="670" />
         <spannedText>not</spannedText>
         <creationDate>Wed Jan 12 08:53:23 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_858">
+    <classMention id="EHOST_Instance_1435">
         <mentionClass id="NegCue">not</mentionClass>
     </classMention>
     <annotation>
-        <mention id="EHOST_Instance_859" />
-        <annotator id="eHOST_2010">Extensible_Human_Oracle_Suite_of_Tools</annotator>
+        <mention id="EHOST_Instance_1436" />
+        <annotator id="01">TimVorstenbosch1</annotator>
         <span start="885" end="888" />
         <spannedText>not</spannedText>
         <creationDate>Wed Jan 12 08:53:32 CET 2022</creationDate>
     </annotation>
-    <classMention id="EHOST_Instance_859">
+    <classMention id="EHOST_Instance_1436">
         <mentionClass id="NegCue">not</mentionClass>
     </classMention>
     <eHOST_Adjudication_Status version="1.0">
