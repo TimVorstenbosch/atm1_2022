@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<annotations textSource="the-Guardian_20170603T090049.txt">
+    <annotation>
+        <mention id="EHOST_Instance_2578" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="139" end="146" />
+        <spannedText>refused</spannedText>
+        <creationDate>Fri Jan 14 12:52:02 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2578">
+        <mentionClass id="NegCue">refused</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2579" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="685" end="688" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 14 12:52:38 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2579">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2580" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="1000" end="1003" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 14 12:52:49 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2580">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2581" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="1162" end="1165" />
+        <spannedText>n't</spannedText>
+        <creationDate>Fri Jan 14 12:53:17 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2581">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2582" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="1514" end="1517" />
+        <spannedText>not</spannedText>
+        <creationDate>Fri Jan 14 12:53:28 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2582">
+        <mentionClass id="NegCue">not</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2583" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="1967" end="1969" />
+        <spannedText>un</spannedText>
+        <creationDate>Fri Jan 14 12:54:07 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2583">
+        <mentionClass id="NegCue">un</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2584" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="2208" end="2213" />
+        <spannedText>avoid</spannedText>
+        <creationDate>Fri Jan 14 12:54:29 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2584">
+        <mentionClass id="NegCue">avoid</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2585" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="2548" end="2552" />
+        <spannedText>none</spannedText>
+        <creationDate>Fri Jan 14 12:54:51 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2585">
+        <mentionClass id="NegCue">none</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2586" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="2584" end="2587" />
+        <spannedText>n't</spannedText>
+        <creationDate>Fri Jan 14 12:54:57 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2586">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2587" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="2711" end="2714" />
+        <spannedText>n't</spannedText>
+        <creationDate>Fri Jan 14 12:55:09 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2587">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2588" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="2745" end="2748" />
+        <spannedText>n't</spannedText>
+        <creationDate>Fri Jan 14 12:55:19 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2588">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2589" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="3123" end="3125" />
+        <spannedText>un</spannedText>
+        <creationDate>Fri Jan 14 12:55:42 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2589">
+        <mentionClass id="NegCue">un</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2590" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="3372" end="3375" />
+        <spannedText>n't</spannedText>
+        <creationDate>Fri Jan 14 12:56:07 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2590">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2591" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="3417" end="3420" />
+        <spannedText>n't</spannedText>
+        <creationDate>Fri Jan 14 12:56:15 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2591">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2592" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="3671" end="3674" />
+        <spannedText>n't</spannedText>
+        <creationDate>Fri Jan 14 12:56:34 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2592">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2593" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="3857" end="3859" />
+        <spannedText>no</spannedText>
+        <creationDate>Fri Jan 14 12:56:46 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2593">
+        <mentionClass id="NegCue">no</mentionClass>
+    </classMention>
+    <annotation>
+        <mention id="EHOST_Instance_2594" />
+        <annotator id="eHOST_2010">Rotti</annotator>
+        <span start="4110" end="4113" />
+        <spannedText>n't</spannedText>
+        <creationDate>Fri Jan 14 12:57:04 CET 2022</creationDate>
+    </annotation>
+    <classMention id="EHOST_Instance_2594">
+        <mentionClass id="NegCue">n't</mentionClass>
+    </classMention>
+    <eHOST_Adjudication_Status version="1.0">
+        <Adjudication_Selected_Annotators version="1.0" />
+        <Adjudication_Selected_Classes version="1.0" />
+        <Adjudication_Others>
+            <CHECK_OVERLAPPED_SPANS>false</CHECK_OVERLAPPED_SPANS>
+            <CHECK_ATTRIBUTES>false</CHECK_ATTRIBUTES>
+            <CHECK_RELATIONSHIP>false</CHECK_RELATIONSHIP>
+            <CHECK_CLASS>false</CHECK_CLASS>
+            <CHECK_COMMENT>false</CHECK_COMMENT>
+        </Adjudication_Others>
+    </eHOST_Adjudication_Status>
+</annotations>
+
