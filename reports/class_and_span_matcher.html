@@ -1,0 +1,59 @@
+<html>
+<head><title>Class and span matcher</title></head>
+<body style="margin: 2 5 5 5; font-family: Candara;">
+<div><a href="index.html"><b> [Back to the index.html]</b></a><br></div>
+<h1>Class and span matcher</h1>
+Annotations match if they have exact same spans, with same classes.
+<hr>
+<p>
+<h2>2-way IAA Results</h2>
+IAA calculated on 12 documents.
+<div>all annotations = matches + non-matches
+<br> IAA = matches / all annotations
+</div>
+<p>For annotations between Annotator[Ella] and Annotator[TimVorstenbosch1]:</p>
+<table border=1><tr><td><b>Type</b></td><td><b>IAA</b></td>
+<td><b>matches</b></td>
+<td><b>non-matches</b></td>
+</tr>
+<tr><td><b>All selected classes</b></td><td>77.5%</td><td>224</td><td>65</td></tr>
+<tr><td><b>NegCue</b></td><td>77.5%</td><td>224</td><td>65</td></tr>
+</table>
+<p>For annotations between Annotator[Ella] and Annotator[Extensible_Human_Oracle_Suite_of_Tools]:</p>
+<table border=1><tr><td><b>Type</b></td><td><b>IAA</b></td>
+<td><b>matches</b></td>
+<td><b>non-matches</b></td>
+</tr>
+<tr><td><b>All selected classes</b></td><td>77.7%</td><td>220</td><td>63</td></tr>
+<tr><td><b>NegCue</b></td><td>77.7%</td><td>220</td><td>63</td></tr>
+</table>
+<p>For annotations between Annotator[TimVorstenbosch1] and Annotator[Extensible_Human_Oracle_Suite_of_Tools]:</p>
+<table border=1><tr><td><b>Type</b></td><td><b>IAA</b></td>
+<td><b>matches</b></td>
+<td><b>non-matches</b></td>
+</tr>
+<tr><td><b>All selected classes</b></td><td>74.5%</td><td>204</td><td>70</td></tr>
+<tr><td><b>NegCue</b></td><td>74.5%</td><td>204</td><td>70</td></tr>
+</table>
+<br>
+<p>
+<h2>3-way IAA Results ( 3 Annotators)</h2>
+<p>For annotations among all Annotators in current dataset:</p>
+<table border=1><tr><td><b>Type</b></td><td><b>IAA</b></td>
+<td><b>matches</b></td>
+<td><b>non-matches</b></td>
+</tr>
+<tr><td><b>All selected classes</b></td><td>63.8%</td><td>270</td><td>153</td></tr>
+<tr><td><b>NegCue</b></td><td>63.8%</td><td>270</td><td>153</td></tr>
+</table>
+<br><h2>Pair-wise agreement</h2>
+<table border=1><tr><td><b>Gold standard set</b></td><td><b>compared set</b></td><td><b>true positives</b></td><td><b>false positives</b></td><td><b>false negatives</b></td><td><b>recall</b></td><td><b>precision</b></td><td><b>F-measure</b></td></tr>
+<tr><td>Ella</td><td>TimVorstenbosch1</td><td>112</td><td>28</td><td>37</td><td>75.2%</td><td>80.0%</td><td>77.5%</td></tr>
+<tr><td>Ella</td><td>Extensible_Human_Oracle_Suite_of_Tools</td><td>110</td><td>24</td><td>39</td><td>73.8%</td><td>82.1%</td><td>77.7%</td></tr>
+<tr><td>TimVorstenbosch1</td><td>Ella</td><td>112</td><td>37</td><td>28</td><td>80.0%</td><td>75.2%</td><td>77.5%</td></tr>
+<tr><td>TimVorstenbosch1</td><td>Extensible_Human_Oracle_Suite_of_Tools</td><td>102</td><td>32</td><td>38</td><td>72.9%</td><td>76.1%</td><td>74.5%</td></tr>
+<tr><td>Extensible_Human_Oracle_Suite_of_Tools</td><td>Ella</td><td>110</td><td>39</td><td>24</td><td>82.1%</td><td>73.8%</td><td>77.7%</td></tr>
+<tr><td>Extensible_Human_Oracle_Suite_of_Tools</td><td>TimVorstenbosch1</td><td>102</td><td>38</td><td>32</td><td>76.1%</td><td>72.9%</td><td>74.5%</td></tr>
+</table>
+Precision and recall are given equal weight for the F-score.
+<div><a href="index.html"><b><br>[Back to the index.html]</b></a><br></div>
