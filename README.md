@@ -16,4 +16,4 @@ Group names :
 - For assignment 4 the others notebooks are also used (apart from 'Bert_EA_Analysis_tables')
 - For assignment 5 the notebook 'Bert_EA_Analysis_tables' is used
 
-The Final data we used is present in the folder 'Final Data'
+The Final data we used is present in the folder 'Final Data' (the file 'trainset_final_EA.csv' is needed to run the LGBM Error Analysis. This file is too big to be pushed but can be obtained by running the 'ATM' notebook. One needs to download mentioned file manually after the notebook is done running)
