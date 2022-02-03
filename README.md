@@ -15,4 +15,7 @@ Jupyter notebook for assignment 3: ATM.ipynb
 
 - The code in this project is formatted as an .ipynb (notebook file). This can be run via Jupyter, Google Colab or other notebook editors. We developed the code in colab, thus we use the variable USING_GOOGLE_COLAB to indicate whether colab is used or not. Set this to `True' for uploading files in colab with the file explorer, otherwise make sure the data is in the same folder as the code and set this variable to False.
 - For assignment 3 the 'ATM' notebook is used
-- For assignment 4 the others notebooks are also used
+- For assignment 4 the others notebooks are also used (apart from 'Bert_EA_Analysis_tables')
+- For assignment 5 the notebook 'Bert_EA_Analysis_tables' is used
+
+The Final data we used is present in the folder 'Final Data'
